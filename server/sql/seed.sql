@@ -1,0 +1,1 @@
+-- Optional starter content. The API's init-db command creates the admin account and base settings.
